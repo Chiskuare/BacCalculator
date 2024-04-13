@@ -18,7 +18,7 @@ Thank you for selecting BacCal for your viral titer calculation needs. We're com
 
 - Upon downloading and unzipping the software, locate the application file.
 - On the first run, BacCal automatically generates a "Titer_Record" folder in the application directory.
-- This folder contains the "Titer_Record.db" database for storing local experimental data.
+- This folder contains the "Titer_Record.db" database for storing experimental data in local PC.
 - Utilize the serial dilution method by infecting different concentrations in 96-well plates (typically 8 wells) to calculate viral titer.
 - Adjust the serial dilution concentration via the "File" -> "Serparameter" from menubar if needed.
 
