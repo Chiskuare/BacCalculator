@@ -1,4 +1,5 @@
 BacCal is a calculator tool for viral titer calculations (only for Windows).
+
 To enhance the accessibility and usability of our software, we've created a comprehensive technique report on GitHub. Here's a detailed breakdown of the instructions and features:
 
 ### BacCal Version 1.0 Technique Report
